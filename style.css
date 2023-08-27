@@ -1,0 +1,21 @@
+h1   {
+    background-color: rgb(255, 0, 0);
+    color:seagreen;
+    margin:100px 50px;
+    padding:100px;
+    border: 100px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+p  {
+margin:100px 100px  600px 600px;
+background-color:greenyellow;
+padding: 100px;
+text-align: center;
+border: 25px;
+border-style: dotted;
+border-color:yellow ;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
